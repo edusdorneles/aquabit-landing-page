@@ -1,0 +1,42 @@
+[
+  {
+    "image": "/images/depoimentos/bruno-guiomar.webp",
+    "imageAlt": "Foto de Bruno Guiomar",
+    "title": "Acompanhamento Eficiente!",
+    "stars": 5,
+    "text": "Com o investimento no Aquabit, agora podemos adicionar todos os dados da produção e ter um acompanhamento mais preciso, o que antes não era tão eficiente.",
+    "name": "Bruno Guiomar",
+    "localization": "Itabirito - MG",
+    "production": "(Produção 6 ton/ano)"
+  },
+  {
+    "image": "/images/depoimentos/maria-juliana.webp",
+    "imageAlt": "Tanques Escavados",
+    "title": "Controle Eficaz da Produção!",
+    "stars": 5,
+    "text": "Aquabit se mostrou um sistema bastante aberto às adaptações necessárias ao nosso formato de criação, e com custo benefício bem atrativo. A Administração da Piscicultura ficou mais eficiente.",
+    "name": "Maria Juliana",
+    "localization": "Ariquemes - RO",
+    "production": "(Produção 238 ton/ano)"
+  },
+  {
+    "image": "/images/depoimentos/guilherme-higashiyama.webp",
+    "imageAlt": "Foto de Tanques Escavados",
+    "title": "Clareza nos Dados!",
+    "stars": 5,
+    "text": "A Aquabit se mostrou ideal para que conseguisse desenvolver meu trabalho e apresentar os dados necessários com clareza.",
+    "name": "Guilherme Higashiyama",
+    "localization": "Guilherme Higashiyama",
+    "production": "(Produção 235 ton/ano)"
+  },
+  {
+    "image": "/images/depoimentos/juliana-medeiros.webp",
+    "imageAlt": "Tanques Escavados",
+    "title": "Melhor Gestão!",
+    "stars": 5,
+    "text": "Consigo administrar nossa piscicultura de qualquer lugar do mundo. Permite uma melhor gestão junto com nossa equipe.",
+    "name": "Juliana Medeiros",
+    "localization": "Nossa Senhora do Livramento - MT",
+    "production": "(Produção 260 ton/ano)"
+  }
+]
